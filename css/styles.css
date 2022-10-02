@@ -100,6 +100,7 @@ body {
 .hero-button {
   color: var(--white-color);
   background-color: var(--accent-color);
+  font-family: inherit;
   font-weight: 700;
   font-size: inherit;
   line-height: 1.87;
@@ -195,6 +196,7 @@ body {
 
 .menu-button-item {
   background: #f5f4fa;
+  font-family: inherit;
   font-weight: 500;
   font-size: inherit;
   line-height: 1.62;
